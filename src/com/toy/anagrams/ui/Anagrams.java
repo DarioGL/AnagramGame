@@ -273,7 +273,7 @@ public class Anagrams extends JFrame {
             feedbackLabel.setText("Correct! Try a new word!");
             getRootPane().setDefaultButton(nextTrial);
         } else {
-            feedbackLabel.setText("Incorrect! Try again!");
+            feedbackLabel.setText("Incorrecto! Intentalo de nuevo!");
             guessedWord.setText("");
         }
 
