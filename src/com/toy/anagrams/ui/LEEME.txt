@@ -1,5 +1,3 @@
 Tutorial Git - Dario Gomez
 txt final version
 1
-2
-3
